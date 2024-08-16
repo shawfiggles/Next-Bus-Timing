@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Next-Bus-Timing/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Next-Bus-Timing/static/js/main.cd1165ab.chunk.js",
+    "main.js.map": "/Next-Bus-Timing/static/js/main.cd1165ab.chunk.js.map",
+    "runtime-main.js": "/Next-Bus-Timing/static/js/runtime-main.378158da.js",
+    "runtime-main.js.map": "/Next-Bus-Timing/static/js/runtime-main.378158da.js.map",
+    "static/js/2.ee643914.chunk.js": "/Next-Bus-Timing/static/js/2.ee643914.chunk.js",
+    "static/js/2.ee643914.chunk.js.map": "/Next-Bus-Timing/static/js/2.ee643914.chunk.js.map",
+    "index.html": "/Next-Bus-Timing/index.html",
+    "precache-manifest.65ffeeb042ed4f242ac446f1c7062a74.js": "/Next-Bus-Timing/precache-manifest.65ffeeb042ed4f242ac446f1c7062a74.js",
+    "service-worker.js": "/Next-Bus-Timing/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Next-Bus-Timing/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ee643914.chunk.js.LICENSE.txt": "/Next-Bus-Timing/static/js/2.ee643914.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378158da.js",
+    "static/js/2.ee643914.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cd1165ab.chunk.js"
+  ]
+}
