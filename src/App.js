@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Clock, Bus, Search, Moon, Sun } from 'lucide-react';
+import { Clock, Bus } from 'lucide-react';
  
 const scheduleData = [
   { EGHQ: "0:10", TECOM1: "0:43", EGHQ_RETURN: "1:23" },
@@ -137,7 +137,6 @@ const BusScheduleComponent = () => {
 
   const formatTimeUntil = (timeUntil) => {
     if (typeof timeUntil !== 'number') return timeUntil;
-    const hours = Math.floor(timeUntil / 3600000);
     const minutes = Math.floor((timeUntil % 3600000) / 60000);
     const seconds = Math.floor((timeUntil % 60000) / 1000);
     return `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
